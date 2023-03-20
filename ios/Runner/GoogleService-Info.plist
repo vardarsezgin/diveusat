@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>651494760105-915a33g70stevfg53nvos222vqg5qntc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.651494760105-915a33g70stevfg53nvos222vqg5qntc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>651494760105-enbkd82pl6emkd7ko6j7ffo67ag689d9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBz-oq-pQ0yj6eig55f6u7jUe7IrY4aPMY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>651494760105</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.diveusat.com</string>
+	<key>PROJECT_ID</key>
+	<string>deneme-5656b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>deneme-5656b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:651494760105:ios:0b50368338687a8c71d3b8</string>
+</dict>
+</plist>

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "651494760105",
+    "project_id": "deneme-5656b",
+    "storage_bucket": "deneme-5656b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651494760105:android:12f18525dacb3ff571d3b8",
+        "android_client_info": {
+          "package_name": "app.diveusat.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651494760105-oorsrst4667plm38p17sai006u4v5c8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.diveusat.com",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "651494760105-9hhkj4iogo6tm3i2jpfgpsf18c8l9its.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuVc03l46eJd6QHe92SVNaum1E2gazNqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651494760105-0vi1bqpaj4a98fcojothh4mur4jvamj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "651494760105-7rmv4fq989bpht0mkicb4tih41or1gjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "deneme.diveusat.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
